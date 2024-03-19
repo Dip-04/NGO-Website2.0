@@ -1,0 +1,11 @@
+.so:hover{
+    color: rgb(212, 255, 0)!important;
+    font-size: 35px!important;
+    }
+    .so{
+        border-bottom:3px solid rgb(224, 189, 12);
+    }
+    .lk:hover{
+        color:yellow!important;
+        font-size: 18px;
+    }
